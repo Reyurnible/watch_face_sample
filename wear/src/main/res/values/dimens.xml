@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="analog_hand_stroke">2dp</dimen>
+    <dimen name="batsu_stroke_width">3dp</dimen>
+    <dimen name="state_text">16sp</dimen>
+</resources>
